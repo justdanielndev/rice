@@ -1,6 +1,6 @@
 # Dan (Z)'s Rice
 
-My first ever rice! I wanted to build something that was heavily customized yet looked very clean, cute and glassed :D and I think I did quite a good job!
+My first ever rice! I wanted to build something that was heavily customized yet looked very clean, cute and glassed :D and that was usable by anyone, regardless of their technnical knowledge. I think I did quite a good job!
 
 ![Demo Screenshot](https://github.com/justdanielndev/rice/blob/main/demo.png?raw=true)
 
@@ -23,3 +23,7 @@ Quite simple:
 4. We're almost there! Now, run `sudo apt install conky-all` to install conky on your system, and once its installed, copy all the files in the `home-folder` folder in this repo to your home folder. Finally, run `conky` and add it to your startup apps!
 
 5. (optional) Set the wallpaper to be [the one from this repo](https://github.com/justdanielndev/rice/blob/main/background.jpg?raw=true) (located in the root of the repo).
+
+### Tips
+
+You can go to the "Extensions" app and customize each and every extension's settings from there, no need to change files! I personally suggest you change all of the blur settings in Blur my shell to customize the look to your needs.
